@@ -1,2 +1,1 @@
-# Netflix-UI-Clone
-This is a UI clone of "Netflix" which I created, primarily using HTML and CSS...
+This is a clone project for educational purpose only.It is not affiliated with or wndorsed by Netfkix.
